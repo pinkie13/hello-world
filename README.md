@@ -1,2 +1,3 @@
 # hello-world
-premier
+# premier depot (repository)
+# Primo-delinquant en C à l'age de 33 ans, et devenu dépendant au bout de quelque mois, au point de faire des études en cours du soir ... Grave ...
